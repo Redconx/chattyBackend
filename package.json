@@ -1,0 +1,38 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay Naugain",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.3.0",
+    "mongoose": "^7.0.4",
+    "nodemon": "^2.0.22",
+    "react-notification-badge": "^1.5.1",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redconx/Chatty.git"
+  },
+  "keywords": [
+    "node",
+    "modules"
+  ],
+  "bugs": {
+    "url": "https://github.com/Redconx/Chatty/issues"
+  },
+  "homepage": "https://github.com/Redconx/Chatty#readme",
+  "description": ""
+}
