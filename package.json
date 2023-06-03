@@ -29,6 +29,7 @@
     "node",
     "modules"
   ],
+  "engines": {},
   "bugs": {
     "url": "https://github.com/Redconx/Chatty/issues"
   },
